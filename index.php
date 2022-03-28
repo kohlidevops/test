@@ -20,5 +20,5 @@ EWU is one of the most cost-effective education institutions in the regions – 
 
 
 
-<!-- END PAGE CONTENT -->
+<!-- END PAGE CONTENTS END -->
 <?php 	include_once('assets/includes/footer.php');   ?>
